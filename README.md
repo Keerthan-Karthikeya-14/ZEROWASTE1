@@ -75,15 +75,15 @@
          Companies ,location status(active/not)
 #project Screenshorts
 ![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/129d7f60209a3759655d888c0106981183c25e16/Dashboard1.png)
-![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/129d7f60209a3759655d888c0106981183c25e16/Dashboard1.png)
-![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/129d7f60209a3759655d888c0106981183c25e16/Dashboard1.png)
-![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/129d7f60209a3759655d888c0106981183c25e16/Dashboard1.png)
-![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/129d7f60209a3759655d888c0106981183c25e16/Dashboard1.png)
-![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/129d7f60209a3759655d888c0106981183c25e16/Dashboard1.png)
-![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/129d7f60209a3759655d888c0106981183c25e16/Dashboard1.png)
-![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/129d7f60209a3759655d888c0106981183c25e16/Dashboard1.png)
-![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/129d7f60209a3759655d888c0106981183c25e16/Dashboard1.png)
-![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/129d7f60209a3759655d888c0106981183c25e16/Dashboard1.png)
+![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/bb1e3e4062dfd8ea6a8b9f0ad89cc551b1ee0c23/Dashboard2.png)
+![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/bb1e3e4062dfd8ea6a8b9f0ad89cc551b1ee0c23/Donor%20login.png)
+![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/bb1e3e4062dfd8ea6a8b9f0ad89cc551b1ee0c23/Donation%20Details.png)
+![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/bb1e3e4062dfd8ea6a8b9f0ad89cc551b1ee0c23/Recevier.png)
+![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/bb1e3e4062dfd8ea6a8b9f0ad89cc551b1ee0c23/Recevier%20request.png)
+![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/bb1e3e4062dfd8ea6a8b9f0ad89cc551b1ee0c23/Recevier%20feedback%20and%20ratings.png)
+![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/bb1e3e4062dfd8ea6a8b9f0ad89cc551b1ee0c23/GEOlocation%20of%20food%20Donations.png)
+![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/bb1e3e4062dfd8ea6a8b9f0ad89cc551b1ee0c23/Admin%20login.png)
+![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/bb1e3e4062dfd8ea6a8b9f0ad89cc551b1ee0c23/Admin%20dashboard.png)
 
 
 
