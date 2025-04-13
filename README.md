@@ -74,7 +74,16 @@
     NGO Management
          Companies ,location status(active/not)
 #project Screenshorts
-
+![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/129d7f60209a3759655d888c0106981183c25e16/Dashboard1.png)
+![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/129d7f60209a3759655d888c0106981183c25e16/Dashboard1.png)
+![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/129d7f60209a3759655d888c0106981183c25e16/Dashboard1.png)
+![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/129d7f60209a3759655d888c0106981183c25e16/Dashboard1.png)
+![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/129d7f60209a3759655d888c0106981183c25e16/Dashboard1.png)
+![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/129d7f60209a3759655d888c0106981183c25e16/Dashboard1.png)
+![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/129d7f60209a3759655d888c0106981183c25e16/Dashboard1.png)
+![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/129d7f60209a3759655d888c0106981183c25e16/Dashboard1.png)
+![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/129d7f60209a3759655d888c0106981183c25e16/Dashboard1.png)
+![image alt](https://github.com/Keerthan-Karthikeya-14/ZEROWASTE1/blob/129d7f60209a3759655d888c0106981183c25e16/Dashboard1.png)
 
 
 
